@@ -1,0 +1,18 @@
+.Digit {
+
+    display: grid;
+    grid-template-columns: 70px 70px 70px;
+    margin-top: 7px;
+    grid-gap: 7px;
+
+    button {
+        padding: 10px;
+        height: 50px;
+        border-radius: 5px;
+        background-color: #345B63;
+        font-size: 20px;
+        color: #fff;
+        font-family: 'Space Mono';
+        box-shadow: 2px 4px #152D35;
+    }
+}
